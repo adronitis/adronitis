@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jc@knockloud.com)
 
 
-- 👨🏽‍💻 I’m currently working on [Octoa](https://octoa.com);
+- 👨🏽‍💻 I’m currently open for new challenges;
 - 🌱 I’m constantly learning and a curious thinker; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I've traveled over 30 countries and lived in 3 continents
