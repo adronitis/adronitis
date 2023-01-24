@@ -4,5 +4,5 @@
 - ⚡️ Fun-Fact: I've traveled over 30 countries and lived in 3 continents
 - 📫 How to reach me: jc@knockloud.com;
 
-![Jecan Chiu's github stats](https://github-readme-stats.vercel.app/api?username=adronitis&count_private=true&show_icons=true)
+![Jecan Chiu's github stats](https://readmestats.999857.xyz/api?username=adronitis&count_private=true&show_icons=true)
 
