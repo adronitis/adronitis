@@ -1,8 +1,6 @@
-- 👨🏽‍💻 Always open for new challenges;
-- 🌱 I’m constantly learning and a curious thinker; 
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I've traveled over 30 countries and lived in 3 continents
-- 📫 How to reach me: jc@knockloud.com;
+Hello 👋
 
-![Jecan Chiu's github stats](https://readmestats.999857.xyz/api?username=adronitis&count_private=true&show_icons=true)
+I’m Jecan, or call me JC. I'm a developer, curious adventurer (traveled over 30 countries and lived in 3 continents) + love for climbing.
 
+
+Based in The Netherlands, I'm a EDA and DDD practitioner, currently using Laravel, Nuxt, Vue and also interested in Big data, ML/AI, DevOps, Go and Rust. In simplicity, I'm a passionate and pragmatic developer with an interest in interdisciplinary humanistic and technological disciplines carrying a strong passion in solving problems and optimizing solutions.
